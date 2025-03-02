@@ -1,2 +1,3 @@
-# Data-analysis-dashboard
-A data-driven dashboard for analyzing store performance, providing insights into sales trends, customer behavior, and inventory management through interactive visualizations. This project includes data cleaning, preprocessing, and transformation to ensure accurate and meaningful insights.
+Piyush Store Data Analysis (Interactive Dashboard using MS Excel)
+🎯 Project Objective
+The Piyush Store aims to create an annual sales report for 2022 to help the store owner analyze customer behavior and optimize sales strategies for 2023 & 2024.
